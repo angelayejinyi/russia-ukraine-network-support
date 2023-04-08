@@ -3,5 +3,5 @@
 Additional information for paper "Online Networks of Support in Distressed Environments: Solidarity and Mobilization during the Russian Invasion of Ukraine".
 
 * example_urls.txt: a list of all analyzed URLs in RQ2 section of the paper
-* example_urls.txt: a list of all analyzed URLs in RQ2 section of the paper
-* example_urls.txt: a list of all analyzed URLs in RQ2 section of the paper
+* google_docs_forms_top100.csv: a list of top100 crowdsourcing URLs, coded with content category
+* crowdfunding_platforms_top100.csv: a list of top100 crowdfunding URLs, coded with fundraising entity type
