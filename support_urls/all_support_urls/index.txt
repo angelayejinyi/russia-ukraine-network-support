@@ -1,0 +1,51 @@
+index	domain	type	name
+URL_1	docs.google.com	content collaboration	Google Docs
+URL_2	forms.gle	content collaboration	Google Forms
+URL_3	patreon.com	crowdfunding	Patreon
+URL_4	paypal.com	crowdfunding	PayPal
+URL_5	gofundme.com	crowdfunding	GoFundMe
+URL_6	stripe.com	crowdfunding	Stripe
+URL_7	kickstarter.com	crowdfunding	Kickstarter
+URL_8	indiegogo.com	crowdfunding	Indiegogo
+URL_9	venmo.com	crowdfunding	Venmo
+URL_10	ko-fi.com	crowdfunding	Ko-fi
+URL_11	fundly.com	crowdfunding	Fundly
+URL_12	donately.com	crowdfunding	Donately
+URL_13	tipeee.co	crowdfunding	Tipeee
+URL_14	savelife.in.ua	"local NGO, funds and projects"	Come Back Alive
+URL_15	bank.gov.ua	government	National Bank of Ukraine
+URL_16	help.gov.ua	government	Ukraine Government Humanitarian Aid Website
+URL_17	voices.org.ua	"local NGO, funds and projects"	Voices of Children
+URL_18	razomforukraine.org	"local NGO, funds and projects"	Razom Emergency response
+URL_20	everybodycan.com.ua	"local NGO, funds and projects"	EverybodyCan
+URL_22	lgbtmilitary.org.ua	"local NGO, funds and projects"	LGBT military
+URL_23	war.ukraine.ua	"local NGO, funds and projects"	Official Website of Ukraine
+URL_24	supportukrainenow.org	"local NGO, funds and projects"	Support Ukraine Now
+URL_25	helpukraine.center	international organization	Help Ukraine Center
+URL_26	standforukraine.com	"local NGO, funds and projects"	Stand for Ukraine
+URL_27	rsukraine.org	"local NGO, funds and projects"	Revived Soldiers Ukraine
+URL_28	crisisrelief.un.org	international organization	UN Crisis Relief
+URL_29	care.org	international organization	CARE
+URL_30	doctorswithoutborders.org	international organization	Doctors Without Borders
+URL_31	globalgiving.org	international organization	GlobalGiving Foundation
+URL_32	rescue.org	international organization	International Rescue Committee
+URL_33	icrc.org	international organization	International Committee of the Red Cross
+URL_34	projecthope.org	international organization	Project Hope
+URL_35	savethechildren.org	international organization	Save the Children
+URL_36	wfp.org	international organization	World Food Programme
+URL_37	unhcr.org	international organization	UN Refugee Agency (UNHCR)
+URL_38	unicefusa.org	international organization	UNICEF Fund for supporting Ukrainian children
+URL_39	internationalmedicalcorps.org	international organization	International Medical Corps
+URL_40	redcross.org.ua	"local NGO, funds and projects"	Ukrainian Red Cross Society
+URL_41	mercycorps.org	international organization	Mercy Corps
+URL_42	prytulafoundation.org	"local NGO, funds and projects"	Serhiy Prytula Charity Foundation
+URL_43	www.hospitallers.life	"local NGO, funds and projects"	The Hospitallers Battalion
+URL_44	novaukraine.org	"local NGO, funds and projects"	Nova Ukraine
+URL_45	moz.gov.ua	government	Ministry of Health
+URL_46	directrelief.org	international organization	Direct Relief
+URL_47	actionagainsthunger.org	international organization	Action Against Hunger USA
+URL_48	airbnb.org	international organization	Airbnb.org
+URL_49	sunflowerofpeace.com	international organization	Sunflower of Peace Foundation
+URL_50	unitedhelpukraine.org	international organization	United Help Ukraine
+URL_51	hias.org	international organization	HIAS INC.
+URL_52	u24.gov.ua	government	UNITED24
