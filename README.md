@@ -7,6 +7,7 @@ Overall, we gathered more than 383k support URLs from a list of 51 domains share
 
 ## Data Organization
 The structure of dataset is as follows:
+* all_support_urls: A dataset that contains all the URLs of support sites extracted from four social media platforms. Each file in the dataset is named according to its URL index, which is described in the "index.txt" file.
 * google_docs_forms_top100.csv: a list of top100 Google Docs and Forms URLs, coded with content category
 * crowdfunding_platforms_top100.csv: a list of top100 crowdfunding URLs, coded with fundraising entity type
 * example_urls.txt: a list of all analyzed URLs in RQ2 section of the [paper](https://arxiv.org/pdf/2304.04327.pdf)
