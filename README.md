@@ -2,7 +2,7 @@
 
 This repository contains a collection of online support site URLs circulated on social media platforms during the Russia-Ukraine conflict. We uncover a heterogeneous suite of support resources, including crowdsourcing and crowdfunding platforms as well as local and international funding organizations. The URLs were extracted from a collection of 68M social media posts from four platforms, namely Twitter, Facebook, Instagram, and YouTube, over a three-month period (February 22, 2022 - April 28, 2022), beginning two days prior to the Russian invasion of Ukraine. 
 
-Overall, we gathered more than 383k support URLs from a list of 51 domains shared across four social media platforms. In this repository, we provide public access to this data, calling for further investigations into these benevolent activities to promote positive impact and prosocial behavior through social media.
+Overall, we gathered more than 383k support URLs from a list of 51 domains shared across four social media platforms. In this repository, we provide public access to this data, calling for further investigations into these benevolent activities to promote positive impact and prosocial behavior through social media. *This work is published in Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media (ICWSM 2023). [Workshop Paper Abstract](https://workshop-proceedings.icwsm.org/abstract.php?id=2023_05)*
 
 
 ## Data Organization
