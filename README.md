@@ -22,13 +22,10 @@ Title: 	*Online Networks of Support in Distressed Environments: Solidarity and M
 
 BibTeX:
 ```bibtex
-@inproceedings{ye2023online,
-  author       = {Jinyi Ye and Nikhil Jindal and Francesco Pierri and Luca Luceri},
-  title        = {Online Networks of Support in Distressed Environments: Solidarity and Mobilization during the Russian Invasion of Ukraine},
-  booktitle    = {Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media (ICWSM 2023)},
-  year         = {2023},
-  publisher    = {AAAI Press},
-  doi          = {10.36190/2023.05},
-  url          = {https://doi.org/10.36190/2023.05}
+@article{ye2023online,
+  title={Online networks of support in distressed environments: solidarity and mobilization during the Russian invasion of Ukraine},
+  author={Ye, Jinyi and Jindal, Nikhil and Pierri, Francesco and Luceri, Luca},
+  journal={arXiv preprint arXiv:2304.04327},
+  year={2023}
 }
 ```
